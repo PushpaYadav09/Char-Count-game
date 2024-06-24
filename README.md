@@ -60,7 +60,6 @@ Functionality
  
 - Changing Background Color: Users can click the "Pad Color" button to open a color chooser, select a color, and apply it to the background of the text area.
   
-- Changing Text Color: Users can click the "Text Color" button to open a color chooser, select a color, and apply it to the text within the text area.
-- 
+- Changing Text Color: Users can click the "Text Color" button to open a color chooser, select a color, and apply it to the text within the text area. 
 
 This application is a simple yet effective tool for text analysis and customization, demonstrating basic event handling and GUI manipulation in Java Swing.
