@@ -43,9 +43,9 @@ Functionality
 2) Changing Colors
 
 - The "Pad Color" button allows the user to choose a new background color for the text area via a color chooser dialog.
-- 
+  
 - The "Text Color" button allows the user to choose a new text color for the text area via a color chooser dialog.
-- 
+  
 3) Layout and Design
   
 - The GUI is designed using absolute positioning, meaning each component is placed at a specific coordinate within the window.
